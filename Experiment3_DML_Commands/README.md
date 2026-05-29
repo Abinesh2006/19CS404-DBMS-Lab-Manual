@@ -1,3 +1,17 @@
+The association among entities is called:
+Question 3Answer
+
+a.
+Attribute
+
+b.
+Association
+
+c.
+Relation
+
+d.
+Relationship
 # Experiment 3: DML Commands
 
 ## AIM
